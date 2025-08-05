@@ -1,5 +1,5 @@
 # **Explainable AI Tool for Label-Free Non-Normal RBC Morphology Classification**
-## "Or simply Cell Classifier for now"
+## Or simply "Cell Classifier" for now
 ---
 
 # Explainable RBC Morphology Analysis Tool
