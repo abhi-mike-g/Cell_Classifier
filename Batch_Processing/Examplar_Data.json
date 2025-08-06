@@ -1,0 +1,24 @@
+{
+    "image_name": "example.tiff",
+    "cells": [
+        {
+            "id": 1,
+            "centroid": [123.45, 67.89],
+            "area": 200.0,
+            "perimeter": 50.3,
+            "eccentricity": 0.95,
+            "bounding_box": [50, 50, 200, 200],
+            "mean_intensity": 0.8
+        },
+        {
+            "id": 2,
+            "centroid": [350.67, 200.45],
+            "area": 180.0,
+            "perimeter": 48.2,
+            "eccentricity": 0.92,
+            "bounding_box": [300, 180, 400, 240],
+            "mean_intensity": 0.75
+        },
+        ...
+    ]
+}
